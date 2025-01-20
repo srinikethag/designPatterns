@@ -1,4 +1,4 @@
-package Builder;
+package Builder.basicSolution;
 
 public class Client {
 
