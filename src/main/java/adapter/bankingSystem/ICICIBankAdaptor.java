@@ -1,6 +1,6 @@
-package adapter;
+package adapter.bankingSystem;
 
-import adapter.sdk.ICICIBank;
+import adapter.bankingSystem.sdk.ICICIBank;
 
 public class ICICIBankAdaptor implements BankingService {
 

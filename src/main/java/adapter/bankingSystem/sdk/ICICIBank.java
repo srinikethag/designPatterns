@@ -1,4 +1,4 @@
-package adapter.sdk;
+package adapter.bankingSystem.sdk;
 
 // 3rd party code, no changes can be done here
 public class ICICIBank {
